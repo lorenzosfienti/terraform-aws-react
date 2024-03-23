@@ -10,7 +10,6 @@ This project utilizes Terraform to provision and manage AWS resources necessary 
 - [Prerequisites](#prerequisites)
 - [Configuration] (#configuration)
 - [Deploy](#deploy)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 
